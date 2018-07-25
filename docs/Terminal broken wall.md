@@ -47,4 +47,9 @@ Shadowsocks only support socks4 or socks5 don`t support http or https,But Termin
 * sudo vim /etc/profile // end of add
   * export http_proxy="127.0.0.1:8118"
   * export https_proxy="127.0.0.1:8118"
+## Smart raiden 
+- adsa ad as
+- sd asd ads 
+- asd asd a
+> lllla 
 
